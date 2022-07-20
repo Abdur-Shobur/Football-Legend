@@ -532,6 +532,9 @@ footer .footer_menu ul li a {
   .eleps_tab {
     display: none;
   }
+  .view_more {
+    display: none;
+  }
 }
 @media only screen and (max-width: 576px) {
   .upcomming_match_wrap aside {
